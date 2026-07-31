@@ -9,6 +9,18 @@ The tutorials are designed for engineering, materials science, and related stude
 ## 🚀 Tutorials
 
 All tutorials are provided as Jupyter/IPython notebooks and can be run directly in **Google Colab**.
+## ☁️ Using Google Colab
+
+The notebooks can be opened directly in Google Colab using the
+"Open in Colab" links.
+
+Students should use:
+
+**File → Save a copy in Drive**
+
+to create their own working copy.
+
+The GitHub repository contains the official course notebooks.
 
 | Module | Topic | Tutorial |
 |---|---|---|
