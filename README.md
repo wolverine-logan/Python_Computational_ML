@@ -8,7 +8,7 @@ The tutorials are designed for engineering, materials science, and related stude
 
 ## 🚀 Tutorials
 
-All tutorials are provided as Jupyter/IPython notebooks and can be run directly using **Google Colab**.
+All tutorials are provided as Jupyter/IPython notebooks and can be run directly in **Google Colab**.
 
 | Module | Topic | Tutorial |
 |---|---|---|
@@ -23,13 +23,13 @@ All tutorials are provided as Jupyter/IPython notebooks and can be run directly 
 
 ---
 
-## 📚 Contents
+## 📚 Course Modules
 
 ### Module 1 — Python Fundamentals
 
 Introduction to Python and programming concepts required for scientific computing.
 
-Topics include:
+**Topics**
 
 - Python basics
 - Jupyter Notebook / Google Colab
@@ -45,13 +45,15 @@ Topics include:
 - Exception handling
 - Basic programming exercises
 
+[🟢 Open Module 1 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_1_Python_Fundamentals_Computational_Materials_Tutorial.ipynb)
+
 ---
 
 ### Module 2 — NumPy & Scientific Linear Algebra
 
 Introduction to numerical computing with NumPy and implementation of fundamental linear-algebra operations.
 
-Topics include:
+**Topics**
 
 - NumPy arrays
 - Indexing and slicing
@@ -71,13 +73,15 @@ Topics include:
 - Singular Value Decomposition (SVD)
 - QR decomposition
 
+[🟢 Open Module 2 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_2_NumPy_Scientific_Linear_Algebra_Tutorial.ipynb)
+
 ---
 
 ### Module 3 — Data Analysis & Visualization
 
 Working with scientific datasets using Pandas and visualization libraries.
 
-Topics include:
+**Topics**
 
 - Pandas
 - DataFrames
@@ -95,13 +99,15 @@ Topics include:
 - Pair plots
 - Correlation plots
 
+[🟢 Open Module 3 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_3_Data_Analysis_Visualization_Tutorial.ipynb)
+
 ---
 
 ### Module 4 — Mathematics & Scientific Computing
 
 Implementation of mathematical and numerical techniques using Python and SciPy.
 
-Topics include:
+**Topics**
 
 - Probability
 - Statistics
@@ -116,13 +122,15 @@ Topics include:
 - Optimization
 - SciPy
 
+[🟢 Open Module 4 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_4_Mathematics_Scientific_Computing_Tutorial.ipynb)
+
 ---
 
 ### Module 5 — Data Preparation & Feature Engineering
 
 Preparing datasets for machine-learning workflows.
 
-Topics include:
+**Topics**
 
 - Data cleaning
 - Missing values
@@ -136,13 +144,15 @@ Topics include:
 - Dimensionality reduction
 - Train-test splitting
 
+[🟢 Open Module 5 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_5_Data_Preparation_Feature_Engineering_Tutorial.ipynb)
+
 ---
 
 ### Module 6 — Numerical Methods
 
 Implementation of numerical methods used in scientific and engineering computation.
 
-Topics include:
+**Topics**
 
 - Numerical errors
 - Finite Difference Method
@@ -159,13 +169,15 @@ Topics include:
 - Numerical solution of transport equations
 - Introduction to phase-field modelling
 
+[🟢 Open Module 6 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_6_Numerical_Methods_Computational_Materials_Tutorial.ipynb)
+
 ---
 
 ### Module 7 — Classical Machine Learning
 
 Introduction to classical machine-learning algorithms and their implementation in Python.
 
-Topics include:
+**Topics**
 
 - Supervised learning
 - Regression
@@ -181,13 +193,15 @@ Topics include:
 - Hyperparameter optimization
 - Feature importance
 
+[🟢 Open Module 7 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_7_Classical_Machine_Learning_Computational_Materials_Tutorial.ipynb)
+
 ---
 
 ### Module 8 — Deep Learning
 
 Introduction to deep learning using Python and PyTorch.
 
-Topics include:
+**Topics**
 
 - PyTorch tensors
 - Tensor operations
@@ -206,30 +220,13 @@ Topics include:
 - Convolutional Neural Networks
 - Scientific machine learning
 
----
-
-## ☁️ Running the Tutorials
-
-The notebooks can be run using **Google Colab**, so no local Python installation is required.
-
-### Option 1 — Open directly in Colab
-
-Click the **Open in Colab** button for the desired module.
-
-### Option 2 — Download the notebook
-
-Download the `.ipynb` file and open it using:
-
-- Jupyter Notebook
-- JupyterLab
-- VS Code
-- Google Colab
+[🟢 Open Module 8 in Google Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb)
 
 ---
 
 ## 🛠️ Python Libraries
 
-The tutorials make use of the scientific Python ecosystem, including:
+The tutorials use the scientific Python ecosystem, including:
 
 - **NumPy** — numerical arrays and linear algebra
 - **Pandas** — data analysis
@@ -239,13 +236,37 @@ The tutorials make use of the scientific Python ecosystem, including:
 - **scikit-learn** — classical machine learning
 - **PyTorch** — deep learning
 
-Additional computational materials libraries can be introduced as required:
+Additional libraries that may be useful for computational materials work include:
 
 - **pymatgen**
 - **matminer**
 - **ASE**
 - **pathlib**
 - **os**
+
+---
+
+## ☁️ Using Google Colab
+
+The notebooks can be run directly in Google Colab, so a local Python installation is not required.
+
+### Step 1
+
+Choose a tutorial from the table above.
+
+### Step 2
+
+Click **Open in Colab**.
+
+### Step 3
+
+In Google Colab, select:
+
+**File → Save a copy in Drive**
+
+### Step 4
+
+Run the notebook cells and complete the exercises.
 
 ---
 
@@ -257,9 +278,11 @@ Additional computational materials libraries can be introduced as required:
 - Google Chrome
 - Internet connection
 
-### No local installation required
+### Local installation
 
-The tutorials can be executed entirely through Google Colab.
+A local Python environment is optional.
+
+The tutorials can be completed entirely using Google Colab.
 
 ---
 
@@ -282,6 +305,4 @@ Python_Computational_ML/
 │
 ├── Module_7_Classical_Machine_Learning_Computational_Materials_Tutorial.ipynb
 │
-├── Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb
-│
-└── PyTorch_Hands_On_Tutorial_Computational_Materials.ipynb
+└── Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb
