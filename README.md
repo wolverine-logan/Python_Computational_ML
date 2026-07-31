@@ -12,14 +12,14 @@ All tutorials are provided as Jupyter/IPython notebooks and can be run directly 
 
 | Module | Topic | Tutorial |
 |---|---|---|
-| **Module 1** | Python Fundamentals | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_1_Python_Fundamentals_Computational_Materials.ipynb) |
-| **Module 2** | NumPy & Scientific Linear Algebra | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_2_NumPy_Scientific_Linear_Algebra_Tutorial.ipynb) |
-| **Module 3** | Data Analysis & Visualization | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_3_Data_Analysis_Visualization_Tutorial.ipynb) |
-| **Module 4** | Mathematics & Scientific Computing | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_4_Mathematics_Scientific_Computing_Tutorial.ipynb) |
-| **Module 5** | Data Preparation & Feature Engineering | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_5_Data_Preparation_Feature_Engineering_Tutorial.ipynb) |
-| **Module 6** | Numerical Methods | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_5_Numerical_Methods_Computational_Materials.ipynb) |
-| **Module 7** | Classical Machine Learning | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_7_Classical_Machine_Learning_Computational_Materials.ipynb) |
-| **Module 8** | Deep Learning with PyTorch | 🟢 [Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_8_Deep_Learning_Computational_Materials.ipynb) |
+| **1** | 🐍 Python Fundamentals | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_1_Python_Fundamentals_Computational_Materials_Tutorial.ipynb) |
+| **2** | 🔢 NumPy & Scientific Linear Algebra | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_2_NumPy_Scientific_Linear_Algebra_Tutorial.ipynb) |
+| **3** | 📊 Data Analysis & Visualization | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_3_Data_Analysis_Visualization_Tutorial.ipynb) |
+| **4** | 📐 Mathematics & Scientific Computing | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_4_Mathematics_Scientific_Computing_Tutorial.ipynb) |
+| **5** | 🧹 Data Preparation & Feature Engineering | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_5_Data_Preparation_Feature_Engineering_Tutorial.ipynb) |
+| **6** | 🔬 Numerical Methods | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_6_Numerical_Methods_Computational_Materials_Tutorial.ipynb) |
+| **7** | 🤖 Classical Machine Learning | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_7_Classical_Machine_Learning_Computational_Materials_Tutorial.ipynb) |
+| **8** | 🧠 Deep Learning | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb) |
 
 ---
 
@@ -183,9 +183,9 @@ Topics include:
 
 ---
 
-### Module 8 — Deep Learning with PyTorch
+### Module 8 — Deep Learning
 
-Introduction to deep learning using PyTorch.
+Introduction to deep learning using Python and PyTorch.
 
 Topics include:
 
@@ -227,25 +227,25 @@ Download the `.ipynb` file and open it using:
 
 ---
 
-## 🛠️ Main Python Libraries
+## 🛠️ Python Libraries
 
 The tutorials make use of the scientific Python ecosystem, including:
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- SciPy
-- scikit-learn
-- PyTorch
+- **NumPy** — numerical arrays and linear algebra
+- **Pandas** — data analysis
+- **Matplotlib** — scientific visualization
+- **Seaborn** — statistical visualization
+- **SciPy** — scientific and numerical computing
+- **scikit-learn** — classical machine learning
+- **PyTorch** — deep learning
 
-Additional computational-materials libraries can be introduced as required, including:
+Additional computational materials libraries can be introduced as required:
 
-- pymatgen
-- matminer
-- ASE
-- pathlib
-- os
+- **pymatgen**
+- **matminer**
+- **ASE**
+- **pathlib**
+- **os**
 
 ---
 
@@ -268,11 +268,20 @@ The tutorials can be executed entirely through Google Colab.
 ```text
 Python_Computational_ML/
 │
-├── Module_1_Python_Fundamentals_*.ipynb
-├── Module_2_NumPy_Scientific_Linear_Algebra_*.ipynb
-├── Module_3_Data_Analysis_Visualization_*.ipynb
-├── Module_4_Mathematics_Scientific_Computing_*.ipynb
-├── Module_5_Data_Preparation_Feature_Engineering_*.ipynb
-├── Module_5_Numerical_Methods_*.ipynb
-├── Module_7_Classical_Machine_Learning_*.ipynb
-└── Module_8_Deep_Learning_*.ipynb
+├── Module_1_Python_Fundamentals_Computational_Materials_Tutorial.ipynb
+│
+├── Module_2_NumPy_Scientific_Linear_Algebra_Tutorial.ipynb
+│
+├── Module_3_Data_Analysis_Visualization_Tutorial.ipynb
+│
+├── Module_4_Mathematics_Scientific_Computing_Tutorial.ipynb
+│
+├── Module_5_Data_Preparation_Feature_Engineering_Tutorial.ipynb
+│
+├── Module_6_Numerical_Methods_Computational_Materials_Tutorial.ipynb
+│
+├── Module_7_Classical_Machine_Learning_Computational_Materials_Tutorial.ipynb
+│
+├── Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb
+│
+└── PyTorch_Hands_On_Tutorial_Computational_Materials.ipynb
