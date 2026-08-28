@@ -9,6 +9,7 @@ The tutorials are designed for engineering, materials science, and related stude
 ## 🚀 Tutorials
 
 All tutorials are provided as Jupyter/IPython notebooks and can be run directly in **Google Colab**.
+
 ## ☁️ Using Google Colab
 
 The notebooks can be opened directly in Google Colab using the
@@ -20,7 +21,7 @@ Students should use:
 
 to create their own working copy.
 
-The GitHub repository contains the official course notebooks.
+The GitHub repository contains the official course notebooks and supporting materials.
 
 | Module | Topic | Tutorial |
 |---|---|---|
@@ -33,6 +34,60 @@ The GitHub repository contains the official course notebooks.
 | **7** | 🤖 Classical Machine Learning | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_7_Classical_Machine_Learning_Computational_Materials_Tutorial.ipynb) |
 | **8** | 🧠 Deep Learning | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb) |
 | **PyTorch** | 🔥 Hands-on PyTorch Tutorial | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/PyTorch_Hands_On_Tutorial_Computational_Materials.ipynb) |
+
+---
+
+# 🔋 Battery Machine Learning Case Study
+
+As an application of the Python, scientific computing, and machine-learning concepts covered in this repository, the tutorials also include a hands-on case study based on the **NASA Li-ion Battery Aging Dataset**.
+
+The case study demonstrates how the concepts introduced throughout the modules can be applied to a real engineering dataset.
+
+### Topics covered
+
+- Loading and understanding scientific battery data
+- Understanding the structure of the NASA battery dataset
+- Data preprocessing
+- Interpolation
+- Battery discharge curves
+- Feature extraction
+- Singular Value Decomposition (SVD)
+- Dimensionality reduction
+- Reconstruction of battery data
+- Linear regression
+- Battery capacity prediction
+- Machine-learning workflow for battery degradation data
+
+## 📓 Battery ML Tutorials
+
+| Tutorial | Description | Google Colab |
+|---|---|---|
+| 🔋 **NASA Battery Dataset — Data Exploration & Preprocessing** | Loading, understanding, restructuring, and preprocessing the NASA battery dataset | [🟢 Open in Colab](https://colab.research.google.com/drive/1UARGKZPnqxZeivnkmSz6HXvSFz0rjRI6) |
+| 🤖 **NASA Battery Dataset — SVD & Machine Learning** | SVD-based feature extraction and regression for battery capacity prediction | [🟢 Open in Colab](https://colab.research.google.com/drive/1BHM8gM5XnAg7E78DZUr190dYqxBR1FjC) |
+
+---
+
+# 🗃️ Data Source — NASA Li-ion Battery Aging Dataset
+
+The battery machine-learning case study uses the **NASA Li-ion Battery Aging Dataset**, originally developed by B. Saha and K. Goebel at NASA Ames Research Center.
+
+## 📥 Download Dataset
+
+The dataset can be downloaded directly from the NASA Prognostics Data Repository mirror:
+
+**[⬇️ Download NASA Battery Data Set](https://phm-datasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip)**
+
+## 📖 Dataset Description
+
+Detailed information about the dataset, including its background and description, is available from NASA:
+
+**[🔗 NASA Li-ion Battery Aging Datasets](https://data.nasa.gov/dataset/li-ion-battery-aging-datasets)**
+
+## 📚 Dataset Citation
+
+> B. Saha and K. Goebel (2007). “Battery Data Set”, NASA Prognostics Data Repository, NASA Ames Research Center, Moffett Field, CA.
+
+If you use the dataset or the associated battery tutorials in academic work, please cite the original dataset appropriately.
 
 ---
 
@@ -318,4 +373,6 @@ Python_Computational_ML/
 │
 ├── Module_7_Classical_Machine_Learning_Computational_Materials_Tutorial.ipynb
 │
-└── Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb
+├── Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb
+│
+└── PyTorch_Hands_On_Tutorial_Computational_Materials.ipynb
