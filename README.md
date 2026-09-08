@@ -1,4 +1,5 @@
 # Python for Computational Materials & Machine Learning
+#Course Code : 	ML6P004 (Computational Materials Laboratory)/ ID6L208 (Introduction to Statistical machine learning)
 
 A hands-on Python tutorial series covering scientific computing, numerical methods, data analysis, machine learning, and deep learning.
 
