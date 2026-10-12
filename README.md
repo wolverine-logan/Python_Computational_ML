@@ -35,6 +35,7 @@ The GitHub repository contains the official course notebooks and supporting mate
 | **7** | 🤖 Classical Machine Learning | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_7_Classical_Machine_Learning_Computational_Materials_Tutorial.ipynb) |
 | **8** | 🧠 Deep Learning | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/Module_8_Deep_Learning_Computational_Materials_Tutorial.ipynb) |
 | **PyTorch** | 🔥 Hands-on PyTorch Tutorial | [🟢 Open in Colab](https://colab.research.google.com/github/wolverine-logan/Python_Computational_ML/blob/main/PyTorch_Hands_On_Tutorial_Computational_Materials.ipynb) |
+| **ANN** | 🔥 Hands-on Artificial Neural Network (ANN) Tutorial | [🟢 Open in Colab](https://colab.research.google.com/drive/1nCobYpuxMVFAtGXGmmrV7uP1g8RDVgw7) |
 
 ---
 
